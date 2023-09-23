@@ -1,0 +1,1 @@
+EasyBalance is a mobile cash flow management tool that allows SMEs owners to see the financial state of their business without special knowledge of finance and studying of complex and expensive systems to improve productivity, seamless operation, growth/scalability, manage/track multiple location and customer relation 
